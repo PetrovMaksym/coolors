@@ -1,5 +1,7 @@
 // <i class="fa-solid fa-lock-open"></i>
 
+console.log('Test2')
+
 const cols = document.querySelectorAll('.col')
 
 document.addEventListener('keydown', event =>{
